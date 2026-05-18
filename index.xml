@@ -6,65 +6,65 @@
       <description>Last 10 notes on laufwerk #</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>quartz</title>
-    <link>https://quartz.laufwerk.xyz/notes/quartz/quartz</link>
-    <guid>https://quartz.laufwerk.xyz/notes/quartz/quartz</guid>
-    <description><![CDATA[ This garden is built on quartz. ]]></description>
-    <pubDate>Mon, 18 May 2026 15:51:31 GMT</pubDate>
+    <title>About</title>
+    <link>https://quartz.laufwerk.xyz/About</link>
+    <guid>https://quartz.laufwerk.xyz/About</guid>
+    <description><![CDATA[ Welcome to laufwerk. ]]></description>
+    <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
   </item><item>
-    <title>developing with quartz</title>
-    <link>https://quartz.laufwerk.xyz/notes/quartz/developing-with-quartz</link>
-    <guid>https://quartz.laufwerk.xyz/notes/quartz/developing-with-quartz</guid>
-    <description><![CDATA[ Van: Setup git clone git@github.com:jackyzha0/quartz.git cd quartz docker build -t quartz_local:latest . ]]></description>
-    <pubDate>Mon, 18 May 2026 15:51:31 GMT</pubDate>
+    <title>EX280</title>
+    <link>https://quartz.laufwerk.xyz/EX280</link>
+    <guid>https://quartz.laufwerk.xyz/EX280</guid>
+    <description><![CDATA[ This page contains an overview of posts relating to EX280 (Red Hat Certified Specialist in OpenShift Administration). ]]></description>
+    <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
+  </item><item>
+    <title>Resources</title>
+    <link>https://quartz.laufwerk.xyz/Resources</link>
+    <guid>https://quartz.laufwerk.xyz/Resources</guid>
+    <description><![CDATA[ Here are some resource I like to share Supernote Templates I use (and love) the Supernote A6X2 to write on. ]]></description>
+    <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
   </item><item>
     <title>Home</title>
     <link>https://quartz.laufwerk.xyz/</link>
     <guid>https://quartz.laufwerk.xyz/</guid>
     <description><![CDATA[ Welkom to the laufwerk digital gaden. This website is contains blogs and notes. ]]></description>
-    <pubDate>Mon, 18 May 2026 15:51:31 GMT</pubDate>
+    <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
   </item><item>
-    <title>Using combos on ZMK</title>
-    <link>https://quartz.laufwerk.xyz/blogs/using-zmk-combos</link>
-    <guid>https://quartz.laufwerk.xyz/blogs/using-zmk-combos</guid>
-    <description><![CDATA[ One of the greatest things (maybe even the greatest thing) about mechanical keyboards that provide custom firmware support (like QMK and ZMK) is the endless support for customization. ]]></description>
-    <pubDate>Mon, 18 May 2026 15:51:31 GMT</pubDate>
+    <title>developing with quartz</title>
+    <link>https://quartz.laufwerk.xyz/notes/quartz/developing-with-quartz</link>
+    <guid>https://quartz.laufwerk.xyz/notes/quartz/developing-with-quartz</guid>
+    <description><![CDATA[ Van: Setup git clone git@github.com:jackyzha0/quartz.git cd quartz docker build -t quartz_local:latest . ]]></description>
+    <pubDate>Thu, 05 Mar 2026 00:00:00 GMT</pubDate>
   </item><item>
-    <title>Using terragrunt to create a selfhosted Obsidian Sync backend</title>
-    <link>https://quartz.laufwerk.xyz/blogs/using-terragrunt-to-deploy-a-obsidian-selfhosted-sync-backend</link>
-    <guid>https://quartz.laufwerk.xyz/blogs/using-terragrunt-to-deploy-a-obsidian-selfhosted-sync-backend</guid>
-    <description><![CDATA[ I have been playing around with Self hosting my Obsidian vaults. ]]></description>
-    <pubDate>Mon, 18 May 2026 15:51:31 GMT</pubDate>
+    <title>quartz</title>
+    <link>https://quartz.laufwerk.xyz/notes/quartz/quartz</link>
+    <guid>https://quartz.laufwerk.xyz/notes/quartz/quartz</guid>
+    <description><![CDATA[ This garden is built on quartz. ]]></description>
+    <pubDate>Wed, 04 Mar 2026 00:00:00 GMT</pubDate>
   </item><item>
-    <title>Using inline Datview with Obsidian</title>
-    <link>https://quartz.laufwerk.xyz/blogs/using-dataview-inline-with-obsidian</link>
-    <guid>https://quartz.laufwerk.xyz/blogs/using-dataview-inline-with-obsidian</guid>
-    <description><![CDATA[ I have been using Obsidian for close to three (3) years now. ]]></description>
-    <pubDate>Mon, 18 May 2026 15:51:31 GMT</pubDate>
+    <title>Migrating a syncthing installation</title>
+    <link>https://quartz.laufwerk.xyz/blogs/migrating-syncthings-installation</link>
+    <guid>https://quartz.laufwerk.xyz/blogs/migrating-syncthings-installation</guid>
+    <description><![CDATA[ I have been reworking my home lab and home storage in the past few weeks. ]]></description>
+    <pubDate>Fri, 23 Jan 2026 00:00:00 GMT</pubDate>
   </item><item>
-    <title>Quick open Things3 with Alfred</title>
-    <link>https://quartz.laufwerk.xyz/blogs/using-alfred-to-open-things-lists</link>
-    <guid>https://quartz.laufwerk.xyz/blogs/using-alfred-to-open-things-lists</guid>
-    <description><![CDATA[ In my daily workflow I have found that when using different tools and systems with each other removing friction can be key. ]]></description>
-    <pubDate>Mon, 18 May 2026 15:51:31 GMT</pubDate>
+    <title>Building the SuperNote X Lamy EMR Pen</title>
+    <link>https://quartz.laufwerk.xyz/blogs/lamy-x-supernote</link>
+    <guid>https://quartz.laufwerk.xyz/blogs/lamy-x-supernote</guid>
+    <description><![CDATA[ One of the biggest joys of using a SuperNote tablet for note-taking is the ceramic nib (that never needs replacing) that comes with some of the pens sold by Ratta, the makers of the SuperNote. ]]></description>
+    <pubDate>Mon, 30 Jun 2025 00:00:00 GMT</pubDate>
   </item><item>
-    <title>ServiceAccounts and SCCs - Running pods with more permission&#039;s</title>
-    <link>https://quartz.laufwerk.xyz/blogs/troubelshooting-permissions-on-pods</link>
-    <guid>https://quartz.laufwerk.xyz/blogs/troubelshooting-permissions-on-pods</guid>
-    <description><![CDATA[ In this blog we will take a look at SCC permissions that are needed to run a pod with escalated permissions and how to use a serviceaccount (sa) to run such a pod or deployment. ]]></description>
-    <pubDate>Mon, 18 May 2026 15:51:31 GMT</pubDate>
-  </item><item>
-    <title>Taints and Tolerations - Can&#039;t Pods and Nodes just get along?</title>
-    <link>https://quartz.laufwerk.xyz/blogs/tolerating-tolerations-openshift</link>
-    <guid>https://quartz.laufwerk.xyz/blogs/tolerating-tolerations-openshift</guid>
-    <description><![CDATA[ During my study for “EX280”(www.redhat.com/en/services/training/ex280-red-hat-certified-specialist-in-openshift-administration-exam) I found Taints and Tolerations very hard to understand. ]]></description>
-    <pubDate>Mon, 18 May 2026 15:51:31 GMT</pubDate>
+    <title>Running your GitHub Actions locally</title>
+    <link>https://quartz.laufwerk.xyz/blogs/think-galactic-act-local</link>
+    <guid>https://quartz.laufwerk.xyz/blogs/think-galactic-act-local</guid>
+    <description><![CDATA[ GitHub Actions are a great CI/CD tool to test, build, and deploy code from your GitHub repository. ]]></description>
+    <pubDate>Fri, 18 Apr 2025 00:00:00 GMT</pubDate>
   </item><item>
     <title>This could save your day(ta)</title>
     <link>https://quartz.laufwerk.xyz/blogs/this-could-save-your-day</link>
     <guid>https://quartz.laufwerk.xyz/blogs/this-could-save-your-day</guid>
     <description><![CDATA[ Ever found out at the wrong moment that your TimeMachine backup is not working any more? That the last backup was from two weeks ago? Or you’re on the road, and you can’t get that backup because it’s a thousand miles from your current location? Then I got something for you TimeMachine Let’s take a s... ]]></description>
-    <pubDate>Mon, 18 May 2026 15:51:31 GMT</pubDate>
+    <pubDate>Wed, 11 Sep 2024 00:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
